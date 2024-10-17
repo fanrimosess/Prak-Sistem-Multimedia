@@ -1,0 +1,37 @@
+body {
+    background-color: #f8f9fa;
+  }
+  header{
+  background-color: rgb(0, 0, 0);
+  justify-content: center;
+  display: flex;
+  color: rgb(237, 237, 239);
+  }
+  .container {
+    margin-top: 50px;
+  }
+  .card {
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #767676;
+  }
+  .form-label {
+    font-weight: bold;
+    color: #000001;
+  }
+  .btn-blue {
+    background-color: rgb(133, 151, 141);
+    color: white;
+  }
+  .btn-blue:hover {
+    background-color: #53585e;
+  }
+  footer {
+    background-color: rgb(41, 42, 41);
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
